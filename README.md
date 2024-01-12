@@ -1,2 +1,4 @@
 # acwj-go
-a toy compiler written in go, learn fromhttps://github.com/DoctorWkt/acwj
+Writting a compiler in golang. 
+
+I follow the [journey](https://github.com/DoctorWkt/acwj) written by (Warren)[https://github.com/DoctorWkt].
